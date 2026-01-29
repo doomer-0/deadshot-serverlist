@@ -1,0 +1,19 @@
+{
+    "name": "deadshot-serverlist",
+    "version": "1.0.0",
+    "description": "Standalone server list for Deadshot.io",
+    "main": "src/main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "devDependencies": {
+        "electron": "^40.1.0"
+    },
+    "dependencies": {
+        "ws": "^8.19.0"
+    }
+}
