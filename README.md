@@ -11,7 +11,7 @@ A standalone desktop application that displays the server list for the game [Dea
 - **Server problem check:** Verify if some servers are offline, by checking if the ping returns an error or if some servers do not appear.
 - **User count:** Display the number of users on each server.
 
-## Build from source
+## Run from source
 
 ```bash
 git clone https://github.com/doomer-0/deadshot-serverlist.git
